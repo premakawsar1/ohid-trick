@@ -9,4 +9,4 @@ pkg install requests
 pip install requests
 git clone https://github.com/premakawsar1/ohid-trick.py
 cd ohid-trick
-python Ohid-trick10.py
+python Ohid-trick-10.py
